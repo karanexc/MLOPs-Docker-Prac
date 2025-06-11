@@ -13,15 +13,15 @@ Docker is a platform that allows developers to build, package, and deploy applic
 - **Scalability** – Easily scale services by running multiple containers.
 
 ### 🧾 Dockerfile: Blueprint for Images
-- FROM: Base image
+- **FROM:** Base image
 
-- COPY / ADD: Add files
+- **COPY / ADD:** Add files
 
-- RUN: Install dependencies
+- **RUN:** Install dependencies
 
-- CMD / ENTRYPOINT: Start container
+- **CMD / ENTRYPOINT:** Start container
 
-- EXPOSE: Declare ports
+- **EXPOSE:** Declare ports
 
 ---
 
